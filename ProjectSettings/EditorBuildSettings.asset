@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Raining.unity
+    guid: eeed99a6036904e4f8fa6a728c4edbd5
+  - enabled: 1
+    path: Assets/Scenes/Winter Scene.unity
+    guid: 837d6e16172bc0549b3d2a6292d9aea6
+  - enabled: 1
+    path: Assets/Scenes/Spells.unity
+    guid: 17b635c3fc2431a4a9efaba3ba6180af
+  - enabled: 1
+    path: Assets/Scenes/Sword Attack.unity
+    guid: e9769e4d7fa4a1c46809b91bb6b9f369
   m_configObjects: {}
