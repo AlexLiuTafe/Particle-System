@@ -23,4 +23,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Sword Attack.unity
     guid: e9769e4d7fa4a1c46809b91bb6b9f369
+  - enabled: 1
+    path: Assets/Scenes/Thunder.unity
+    guid: b0ecaec9833a8914cbe219f6132c4753
+  - enabled: 1
+    path: Assets/Scenes/Tornado.unity
+    guid: 795e3095cec268a4d93809f4de2eb1a9
   m_configObjects: {}

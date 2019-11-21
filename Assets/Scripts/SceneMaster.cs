@@ -16,7 +16,7 @@ public class SceneMaster : MonoBehaviour
     {
         if(Input.anyKeyDown)
 		{
-			if(currentScene.buildIndex.Equals(5))
+			if(currentScene.buildIndex.Equals(7))
 			{
 				SceneManager.LoadScene(0);
 			}
